@@ -1,0 +1,15 @@
+C:\MyRepo\LoadCustomeCSVFile\LoadCustomeCSVFile\bin\Debug\net6.0\LoadCustomeCSVFile.exe
+C:\MyRepo\LoadCustomeCSVFile\LoadCustomeCSVFile\bin\Debug\net6.0\LoadCustomeCSVFile.deps.json
+C:\MyRepo\LoadCustomeCSVFile\LoadCustomeCSVFile\bin\Debug\net6.0\LoadCustomeCSVFile.runtimeconfig.json
+C:\MyRepo\LoadCustomeCSVFile\LoadCustomeCSVFile\bin\Debug\net6.0\LoadCustomeCSVFile.dll
+C:\MyRepo\LoadCustomeCSVFile\LoadCustomeCSVFile\bin\Debug\net6.0\LoadCustomeCSVFile.pdb
+C:\MyRepo\LoadCustomeCSVFile\LoadCustomeCSVFile\obj\Debug\net6.0\LoadCustomeCSVFile.csproj.AssemblyReference.cache
+C:\MyRepo\LoadCustomeCSVFile\LoadCustomeCSVFile\obj\Debug\net6.0\LoadCustomeCSVFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyRepo\LoadCustomeCSVFile\LoadCustomeCSVFile\obj\Debug\net6.0\LoadCustomeCSVFile.AssemblyInfoInputs.cache
+C:\MyRepo\LoadCustomeCSVFile\LoadCustomeCSVFile\obj\Debug\net6.0\LoadCustomeCSVFile.AssemblyInfo.cs
+C:\MyRepo\LoadCustomeCSVFile\LoadCustomeCSVFile\obj\Debug\net6.0\LoadCustomeCSVFile.csproj.CoreCompileInputs.cache
+C:\MyRepo\LoadCustomeCSVFile\LoadCustomeCSVFile\obj\Debug\net6.0\LoadCustomeCSVFile.dll
+C:\MyRepo\LoadCustomeCSVFile\LoadCustomeCSVFile\obj\Debug\net6.0\refint\LoadCustomeCSVFile.dll
+C:\MyRepo\LoadCustomeCSVFile\LoadCustomeCSVFile\obj\Debug\net6.0\LoadCustomeCSVFile.pdb
+C:\MyRepo\LoadCustomeCSVFile\LoadCustomeCSVFile\obj\Debug\net6.0\LoadCustomeCSVFile.genruntimeconfig.cache
+C:\MyRepo\LoadCustomeCSVFile\LoadCustomeCSVFile\obj\Debug\net6.0\ref\LoadCustomeCSVFile.dll
